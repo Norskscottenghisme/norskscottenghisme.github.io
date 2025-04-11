@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Norsk Scottenghisme Online",
+    "description": "",
+    "home_page_url": "https://norskscottenghisme.github.io",
+    "feed_url": "https://norskscottenghisme.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sjefsscottenghisten"
+    },
+    "items": [
+        {
+            "id": "https://norskscottenghisme.github.io/velkommen-til-web-siden-var.html",
+            "url": "https://norskscottenghisme.github.io/velkommen-til-web-siden-var.html",
+            "title": "Velkommen til web-siden vår!",
+            "summary": "Velkommen til den offisielle scottenghisme web siden, kom hit for nye oppdateringer om scottenghismen.",
+            "content_html": "\n  <p>\n    Velkommen til den offisielle scottenghisme web siden, kom hit for nye oppdateringer om scottenghismen.\n  </p>",
+            "author": {
+                "name": "Sjefsscottenghisten"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-11T23:06:36+02:00",
+            "date_modified": "2025-04-11T23:06:36+02:00"
+        }
+    ]
+}

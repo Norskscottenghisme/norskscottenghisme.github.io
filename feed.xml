@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Norsk Scottenghisme Online</title>
+    <link href="https://norskscottenghisme.github.io/feed.xml" rel="self" />
+    <link href="https://norskscottenghisme.github.io" />
+    <updated>2025-04-11T23:06:36+02:00</updated>
+    <author>
+        <name>Sjefsscottenghisten</name>
+    </author>
+    <id>https://norskscottenghisme.github.io</id>
+
+    <entry>
+        <title>Velkommen til web-siden vår!</title>
+        <author>
+            <name>Sjefsscottenghisten</name>
+        </author>
+        <link href="https://norskscottenghisme.github.io/velkommen-til-web-siden-var.html"/>
+        <id>https://norskscottenghisme.github.io/velkommen-til-web-siden-var.html</id>
+
+        <updated>2025-04-11T23:06:36+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Velkommen til den offisielle scottenghisme web siden, kom hit for nye oppdateringer om scottenghismen.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Velkommen til den offisielle scottenghisme web siden, kom hit for nye oppdateringer om scottenghismen.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
